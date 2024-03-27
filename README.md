@@ -6,9 +6,7 @@
 </p>
 
 
-<p align="center"> 
-  📫 Reach me at <a href="mailto: parsahosseinzadeh1388@gmail.com ">parsahosseinzadeh1388@gmail.com</a> 
-</p>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
